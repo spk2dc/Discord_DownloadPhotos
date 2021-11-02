@@ -137,7 +137,7 @@
                 </ui:Target>
               </ui:WaitUiElementAppear.Target>
             </ui:WaitUiElementAppear>
-            <Delay Duration="00:00:03" sap:VirtualizedContainerService.HintSize="433.6,22.4" sap2010:WorkflowViewState.IdRef="Delay_1" />
+            <Delay Duration="00:00:06" sap:VirtualizedContainerService.HintSize="433.6,22.4" sap2010:WorkflowViewState.IdRef="Delay_1" />
             <ui:FindChildren Children="[filteredMessages]" DisplayName="Find Children 'OL'" Filter="&lt;webctrl tag='A' href='*cdn*' /&gt;" sap:VirtualizedContainerService.HintSize="433.6,107.2" sap2010:WorkflowViewState.IdRef="FindChildren_1" Scope="FIND_DESCENDANTS">
               <ui:FindChildren.Target>
                 <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="15f6f9f8-0350-4a9c-a55a-009abd8c0212" InformativeScreenshot="6a15fee276507114b15540cee6fc1729" Selector="&lt;webctrl tag='OL' /&gt;">
